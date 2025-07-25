@@ -1,5 +1,5 @@
 # fnlnigerialimited.com
-  <meta charset="UTF-4" />  
+
   <title>FNL Nigeria Limited</title>  
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap" rel="stylesheet">  
   <style>  
