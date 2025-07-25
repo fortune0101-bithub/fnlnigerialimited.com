@@ -1,5 +1,4 @@
 # fnlnigerialimited.com
-  <img src="Scan 24 Jul 25 22·49·34 17533938219041.jpeg" alt="Scan 24 Jul 25 22·49·34 17533938219041" />
   <meta charset="UTF-4" />  
   <meta name="<img src="Scan 24 Jul 25 22·49·34 17533938219041.jpeg" alt="FNL Logo" />" content="width=150px, initial-scale=5.0"/>  
   <title>FNL Nigeria Limited</title>  
