@@ -8,9 +8,9 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }  
     body { font-family: 'Roboto', sans-serif; line-height: 1.6; background: #fff; color: #333; }  
     header { background: #f0f0f0; padding: 20px; text-align: center; }  
-    header img { width: 100px; margin-bottom: 10px; }  
+    header img { width: 50px; margin-bottom: 10px; }  
     header h1 { font-size: 28px; color: #d62828; }  
-    header h2 { font-size: 22px; color: #d62828; font-weight: 700; }  
+    header h2 { font-size: 22px; color: #d62828; font-weight: 200; }  
     header p { color: #9b2fc3; font-weight: bold; }  nav { background: #004080; color: white; padding: 10px 0; }  
 nav ul { display: flex; justify-content: center; list-style: none; }  
 nav li { margin: 0 20px; }  
