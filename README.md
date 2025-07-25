@@ -2,8 +2,8 @@
  
 <head> 
   <img src="Scan 24 Jul 25 22·49·34 17533938219041.jpeg" alt="Scan 24 Jul 25 22·49·34 17533938219041" />
-  <meta charset="UTF-8" />  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>  
+  <meta charset="UTF-4" />  
+  <meta name="viewport" content="width=device-width, initial-scale=3.0"/>  
   <title>FNL Nigeria Limited</title>  
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@200;700&display=swap" rel="stylesheet">  
   <style>  
