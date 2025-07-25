@@ -11,7 +11,7 @@ nav a { color: white; text-decoration: none; font-weight: bold; }
 
 .hero { padding: 40px 20px; background: #f8f9fa; text-align: center; }  
 .hero h2 { font-size: 26px; margin-bottom: 20px; }  
-.hero p { max-width: 70px; margin: 0 auto; font-size: 18px; }  
+.hero p { max-width: 800px; margin: 0 auto; font-size: 18px; }  
 
 .services { padding: 40px 20px; background: #fff; }  
 .services h3 { text-align: center; font-size: 24px; margin-bottom: 30px; }  
