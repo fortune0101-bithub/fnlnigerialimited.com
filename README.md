@@ -1,8 +1,6 @@
 # fnlnigerialimited.com
 
-  <title>FNL Nigeria Limited</title>  
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap" rel="stylesheet">  
-  <style>  
+  <title>FNL Nigeria Limited</tit 
     * { margin: 0; padding: 0; box-sizing: border-box; }  
     body { font-family: 'Roboto', sans-serif; line-height: 1.6; background: #fff; color: #333; }  
     header { background: #f0f0f0; padding: 20px; text-align: center; }  
