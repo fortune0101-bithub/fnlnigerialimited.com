@@ -1,5 +1,5 @@
 # fnlnigerialimited.com
-<!DOCTYPE html>  <html lang="en">  
+ 
 <head> 
   <img src="Scan 24 Jul 25 22·49·34 17533938219041.jpeg" alt="Scan 24 Jul 25 22·49·34 17533938219041" />
   <meta charset="UTF-8" />  
