@@ -1,7 +1,4 @@
-# fnlnigerialimited.com
-
-  <title>FNL Nigeria Limited</tit 
-    * { margin: 0; padding: 0; box-sizing: border-box; }  
+# fnlnigerialimited.com  
     body { font-family: 'Roboto', sans-serif; line-height: 1.6; background: #fff; color: #333; }  
     header { background: #f0f0f0; padding: 20px; text-align: center; }  
     header img { width: 20px; margin-bottom: 10px; }  
