@@ -1,15 +1,7 @@
 # fnlnigerialimited.com
- 
-<head> 
- <style>
-  .logo {
-    width: 150px;
-    height: auto;
-  }
-</style>
   <img src="Scan 24 Jul 25 22·49·34 17533938219041.jpeg" alt="Scan 24 Jul 25 22·49·34 17533938219041" />
   <meta charset="UTF-4" />  
-  <meta name="viewport" content="width=device-width, initial-scale=3.0"/>  
+  <meta name="<img src="Scan 24 Jul 25 22·49·34 17533938219041.jpeg" alt="FNL Logo" />" content="width=150px, initial-scale=5.0"/>  
   <title>FNL Nigeria Limited</title>  
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@200;700&display=swap" rel="stylesheet">  
   <style>  
