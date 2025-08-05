@@ -131,7 +131,9 @@ Service: ${service}%0A
 Description: ${description}%0A
 Budget: ${budget}%0A
 Timeline: ${timeline}`;
-const whatsappNumber = "2348131103349"; //window.open(https://wa.me/${whatsappNumber}?text=${message}, "_blank");}
+<a href="https://wa.me/2348131103349" target="_blank" style="background-color: #25D366; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
+  💬 Chat with us on WhatsApp
+</a>
     </div>  
   </div>  
 </section>  <section class="cta">  
