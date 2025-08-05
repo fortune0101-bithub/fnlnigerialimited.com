@@ -1,9 +1,9 @@
 # fnlnigerialimited.com  
    <!DOCTYPE html>  <html lang="en">  
-<img src="Scan 24 Jul 25 22·49·34 17533938219041" alt="Scan 24 Jul 25 22·49·34 17533938219041" />  
+<head>
   <meta charset="UTF-8" />  
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>  
-  <title>FNL Nigeria Limited</title>  
+<img src="Scan 24 Jul 25 22·49·34 17533938219041" alt="Scan 24 Jul 25 22·49·34 17533938219041" /> 
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">  
   <style>  
     * { margin: 0; padding: 0; box-sizing: border-box; }  
