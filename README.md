@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />  
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>  
 <title>FNL Nigeria Limited</title>
-  <img src="Scan 24 Jul 25 22·49·34 17533938219041" alt="Scan 24 Jul 25 22·49·34 17533938219041">  
+  <link href="https://fonts.googleapis.com/css2?family=Robotto:wgnt@200;500&display=swap" rel="stylesheet">  
   <style>  
     * { margin: 0; padding: 0; box-sizing: border-box; }  
     body { font-family: 'Roboto', sans-serif; line-height: 1.6; background: #fff; color: #333; }  
@@ -38,7 +38,7 @@ footer p { margin: 5px 0; }
   </style>  
 </head>  
 <body>  <header>  
-  <img src="logo.png" alt="FNL Logo" />  
+  <img src="Scan 24 Jul 25 22·49·34 17533938219041.jpeg" alt="Scan 24 Jul 25 22·49·34 17533938219041.jpeg" />  
   <h1>FNL</h1>  
   <h2>NIGERIA LIMITED</h2>  
   <p>Solution to your dream</p>  
