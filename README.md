@@ -69,8 +69,6 @@ footer p { margin: 5px 0; }
     <div class="box">  
       <h4>Automation Services</h4>  
       <p>Simplify your life with smart home and business automation, from lighting and climate control to integrated security systems.</p> 
-      <html lang="en">
-<head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Request a Quote - FNL Nigeria Limited</title>
@@ -187,10 +185,6 @@ Timeline: ${timeline}`;
       const whatsappNumber = "2348131103349"; // Updated number
       window.open(https://wa.me/${whatsappNumber}?text=${message}, "_blank");
     }
-  </script>
-
-</body>
-</html>
     </div>  
   </div>  
 </section>  <section class="cta">  
