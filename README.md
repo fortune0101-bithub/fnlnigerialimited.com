@@ -131,8 +131,7 @@ Service: ${service}%0A
 Description: ${description}%0A
 Budget: ${budget}%0A
 Timeline: ${timeline}`;
- const whatsappNumber = "2348131103349"; // Updated number
-      window.open(https://wa.me/${whatsappNumber}?text=${message}, "_blank");}
+const whatsappNumber = "2348131103349"; //window.open(https://wa.me/${whatsappNumber}?text=${message}, "_blank");}
     </div>  
   </div>  
 </section>  <section class="cta">  
