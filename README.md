@@ -86,20 +86,15 @@ footer p { margin: 5px 0; }
   </style>
 </head>
 <body>
-
-  <form class="quote-form" id="whatsappForm">
+ <form class="quote-form" id="whatsappForm">
     <h2>Request a Quote</h2>
-
-    <label for="name">Full Name</label>
+<label for="name">Full Name</label>
     <input type="text" id="name" required>
-
-    <label for="email">Email Address</label>
+<label for="email">Email Address</label>
     <input type="email" id="email" required>
-
-    <label for="phone">Phone Number</label>
+<label for="phone">Phone Number</label>
     <input type="tel" id="phone" required>
-
-    <label for="service">Service Required</label>
+   <label for="service">Service Required</label>
     <select id="service" required>
       <option value="">-- Select a Service --</option>
       <option>Solar Installation</option>
@@ -109,11 +104,9 @@ footer p { margin: 5px 0; }
       <option>General Electrical Services</option>
       <option>Other</option>
     </select>
-
-    <label for="description">Brief Description</label>
+<label for="description">Brief Description</label>
     <textarea id="description" rows="4" required></textarea>
-
-    <label for="budget">Estimated Budget</label>
+<label for="budget">Estimated Budget</label>
     <select id="budget">
       <option value="">-- Select --</option>
       <option>Less than ₦100,000</option>
@@ -121,14 +114,11 @@ footer p { margin: 5px 0; }
       <option>₦500,000 – ₦1,000,000</option>
       <option>Above ₦1,000,000</option>
     </select>
-
-    <label for="timeline">Preferred Timeline</label>
+ <label for="timeline">Preferred Timeline</label>
     <input type="text" id="timeline" placeholder="e.g. 2 weeks, 1 month">
-
-    <button type="button" onclick="sendWhatsApp()">Send via WhatsApp</button>
+<button type="button" onclick="sendWhatsApp()">Send via WhatsApp</button>
   </form>
-
-  <script>
+ <script>
     function sendWhatsApp() {
       const name = document.getElementById("name").value;
       const email = document.getElementById("email").value;
@@ -137,8 +127,7 @@ footer p { margin: 5px 0; }
       const description = document.getElementById("description").value;
       const budget = document.getElementById("budget").value;
       const timeline = document.getElementById("timeline").value;
-
-      const message = `Hello, I would like to request a quote from FNL Nigeria Limited.%0A
+ const message = `Hello, I would like to request a quote from FNL Nigeria Limited.%0A
 Name: ${name}%0A
 Email: ${email}%0A
 Phone: ${phone}%0A
@@ -146,8 +135,7 @@ Service: ${service}%0A
 Description: ${description}%0A
 Budget: ${budget}%0A
 Timeline: ${timeline}`;
-
-      const whatsappNumber = "2348131103349"; // Updated number
+ const whatsappNumber = "2348131103349"; // Updated number
       window.open(https://wa.me/${whatsappNumber}?text=${message}, "_blank");}
     </div>  
   </div>  
