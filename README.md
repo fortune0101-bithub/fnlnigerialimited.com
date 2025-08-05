@@ -69,7 +69,8 @@ footer p { margin: 5px 0; }
     <div class="box">  
       <h4>Automation Services</h4>  
       <p>Simplify your life with smart home and business automation, from lighting and climate control to integrated security systems.</p> 
-  <meta charset="UTF-8" />
+ 
+      <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Request a Quote - FNL Nigeria Limited</title>
   <style>
@@ -83,9 +84,7 @@ footer p { margin: 5px 0; }
     .quote-form button { margin-top: 20px;background-color: #25d366;color: white;border: none; padding: 12px; width: 100%;border-radius: 5px;font-size: 16px;cursor: pointer;}
     .quote-form button:hover
     {background-color: #20b358;}
-  </style>
-</head>
-<body>
+  </style></head><body>
  <form class="quote-form" id="whatsappForm">
     <h2>Request a Quote</h2>
 <label for="name">Full Name</label>
@@ -102,8 +101,7 @@ footer p { margin: 5px 0; }
       <option>Electric Fencing</option>
       <option>Home/Office Automation</option>
       <option>General Electrical Services</option>
-      <option>Other</option>
-    </select>
+      <option>Other</option></select>
 <label for="description">Brief Description</label>
     <textarea id="description" rows="4" required></textarea>
 <label for="budget">Estimated Budget</label>
@@ -112,13 +110,11 @@ footer p { margin: 5px 0; }
       <option>Less than ₦100,000</option>
       <option>₦100,000 – ₦500,000</option>
       <option>₦500,000 – ₦1,000,000</option>
-      <option>Above ₦1,000,000</option>
-    </select>
+      <option>Above ₦1,000,000</option> </select>
  <label for="timeline">Preferred Timeline</label>
     <input type="text" id="timeline" placeholder="e.g. 2 weeks, 1 month">
 <button type="button" onclick="sendWhatsApp()">Send via WhatsApp</button>
-  </form>
- <script>
+  </form><script>
     function sendWhatsApp() {
       const name = document.getElementById("name").value;
       const email = document.getElementById("email").value;
