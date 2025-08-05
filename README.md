@@ -1,9 +1,17 @@
 # fnlnigerialimited.com  
+   <!DOCTYPE html>  <html lang="en">  
+<head>  
+  <meta charset="UTF-8" />  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>  
+  <title>FNL Nigeria Limited</title>  
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">  
+  <style>  
+    * { margin: 0; padding: 0; box-sizing: border-box; }  
     body { font-family: 'Roboto', sans-serif; line-height: 1.6; background: #fff; color: #333; }  
     header { background: #f0f0f0; padding: 20px; text-align: center; }  
-    header img { width: 20px; margin-bottom: 10px; }  
+    header img { width: 100px; margin-bottom: 10px; }  
     header h1 { font-size: 28px; color: #d62828; }  
-    header h2 { font-size: 22px; color: #d62828; font-weight: 100; }  
+    header h2 { font-size: 22px; color: #d62828; font-weight: 700; }  
     header p { color: #9b2fc3; font-weight: bold; }  nav { background: #004080; color: white; padding: 10px 0; }  
 nav ul { display: flex; justify-content: center; list-style: none; }  
 nav li { margin: 0 20px; }  
@@ -77,4 +85,3 @@ footer p { margin: 5px 0; }
   <p>FNL Nigeria Limited – Solution to your dream</p>  
   <p>&copy; 2025 FNL Nigeria Limited. All rights reserved.</p>  
 </footer>  </body>  
-</html>  Create this in a file I can upload in github code upload
