@@ -73,51 +73,16 @@ footer p { margin: 5px 0; }
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Request a Quote - FNL Nigeria Limited</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f5f5f5;
-      padding: 20px;
-    }
-    .quote-form {
-      background: #fff;
-      max-width: 600px;
-      margin: auto;
-      padding: 25px;
-      border-radius: 10px;
-      box-shadow: 0 0 8px rgba(0,0,0,0.1);
-    }
-    .quote-form h2 {
-      text-align: center;
-      color: #0a3d62;
-    }
-    .quote-form label {
-      font-weight: bold;
-      margin-top: 15px;
-      display: block;
-    }
+    body {font-family: Arial, sans-serif; background: #f5f5f5;padding: 20px }
+    .quote-form { background: #fff;max-width: 600px; margin: auto;padding: 25px; border-radius: 10px; box-shadow: 0 0 8px rgba(0,0,0,0.1);}
+    .quote-form h2 {text-align: center;color: #0a3d62;}
+    .quote-form label {font-weight: bold;margin-top: 15px;display: block;}
     .quote-form input,
     .quote-form select,
-    .quote-form textarea {
-      width: 100%;
-      padding: 10px;
-      margin-top: 5px;
-      border-radius: 5px;
-      border: 1px solid #ccc;
-    }
-    .quote-form button {
-      margin-top: 20px;
-      background-color: #25d366;
-      color: white;
-      border: none;
-      padding: 12px;
-      width: 100%;
-      border-radius: 5px;
-      font-size: 16px;
-      cursor: pointer;
-    }
-    .quote-form button:hover {
-      background-color: #20b358;
-    }
+    .quote-form textarea {width: 100%; padding: 10px;margin-top: 5px;border-radius: 5px;border: 1px solid #ccc;}
+    .quote-form button { margin-top: 20px;background-color: #25d366;color: white;border: none; padding: 12px; width: 100%;border-radius: 5px;font-size: 16px;cursor: pointer;}
+    .quote-form button:hover
+    {background-color: #20b358;}
   </style>
 </head>
 <body>
@@ -183,8 +148,7 @@ Budget: ${budget}%0A
 Timeline: ${timeline}`;
 
       const whatsappNumber = "2348131103349"; // Updated number
-      window.open(https://wa.me/${whatsappNumber}?text=${message}, "_blank");
-    }
+      window.open(https://wa.me/${whatsappNumber}?text=${message}, "_blank");}
     </div>  
   </div>  
 </section>  <section class="cta">  
