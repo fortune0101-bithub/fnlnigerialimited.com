@@ -38,7 +38,7 @@ footer p { margin: 5px 0; }
   </style>  
 </head>  
 <body>  <header>  
-  <img src="Scan 24 Jul 25 22·49·34 17533938219041.jpeg" alt="Scan 24 Jul 25 22·49·34 17533938219041.jpeg" />  
+ <img src="logo.png" alt="FNL Logo" />    
   <h1>FNL</h1>  
   <h2>NIGERIA LIMITED</h2>  
   <p>Solution to your dream</p>  
