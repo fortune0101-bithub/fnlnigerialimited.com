@@ -131,11 +131,7 @@ Service: ${service}%0A
 Description: ${description}%0A
 Budget: ${budget}%0A
 Timeline: ${timeline}`;
-<a href="https://wa.me/2348131103349" target="_blank">
-<button type="button">Send via WhatsApp</button>
-</a>
-</div>  
-</section>  <section class="cta">  
+ </section>  <section class="cta">  
   <h3>Ready to power up, secure, and automate your space?</h3>  
   <p>Contact FNL NIGERIA LIMITED today for a free consultation!</p>  
   <p>Call us at: 08022398780, 08131103349, 09060784604</p>  
