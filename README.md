@@ -134,51 +134,37 @@ Budget: ${budget}%0A
 <button id="whatsappBtn" aria-label="Chat with FNL on WhatsApp">
   Chat on WhatsApp
 </button>
+<head>
+  target=" <meta charset="UTF-8">
+    <title>Contact on WhatsApp</title>
+    <style>
+        .whatsapp-button {
+            display: inline-block;
+            background-color: #25D366;
+            color: white;
+            padding: 12px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 16px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
 
-<script>
-  (function() {
-    const phone = "2348131103349"; // E.164, no plus sign
-    const defaultMessage = "Hello, I need information about your services."; // change this
-    const encodedMsg = encodeURIComponent(defaultMessage);
+        .whatsapp-button:hover {
+            background-color: #1EBE5D;
+        }
+    </style>
+</head>
+<body>
 
-    const btn = document.getElementById("whatsappBtn");
-    btn.addEventListener("click", function () {
-      // For mobile devices, try opening the WhatsApp app scheme first
-      const isMobile = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|Mobile/i.test(navigator.userAgent);
+    <h2>Contact Us via WhatsApp</h2>
 
-      if (isMobile) {
-        // App deep link (works if user has WhatsApp installed)
-        const appUrl = `whatsapp://send?phone=${phone}&text=${encodedMsg}`;
-        // Fallback web URL
-        const webUrl = `https://wa.me/${phone}?text=${encodedMsg}`;
+    <a class="whatsapp-button" 
+       href="https://wa.me/2348022398780" 
+       target="_blank">
+       Chat on WhatsApp
+    </a>
 
-        // Try to open app URL — if it fails, open web URL after small timeout
-        const timeout = setTimeout(() => { window.open(webUrl, "_blank", "noopener"); }, 800);
-        window.location = appUrl;
-
-        // Clear timeout if the user leaves the page (successful app open usually navigates away)
-        window.addEventListener("pagehide", () => clearTimeout(timeout));
-      } else {
-        // Desktop – open WhatsApp Web in new tab
-        const webUrl = `https://wa.me/${phone}?text=${encodedMsg}`;
-        window.open(webUrl, "_blank", "noopener");
-      }
-    });
-  })();
-</script>
-
-<style>
-  /* optional nice styling for the button */
-  #whatsappBtn {
-    background: #25D366;
-    color: #fff;
-    border: none;
-    padding: 12px 18px;
-    border-radius: 8px;
-    font-weight: 600;
-    cursor: pointer;
-  }
-  #whatsappBtn:hover { opacity: 0.95; }
 </style>
 Timeline: ${timeline}`;
  </section>  <section class="cta">  
