@@ -142,7 +142,6 @@ Budget: ${budget}%0A
        <target="+2348131103349">
        Chat on WhatsApp
     </a>
-
 </style>
 Timeline: ${timeline}`;
  </section>  <section class="cta">  
