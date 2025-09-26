@@ -134,7 +134,6 @@ Timeline: ${timeline}`;<a href="https://wa.me/2348131103349" target="_blank" sty
   💬 Chat with us on WhatsApp
 </a>
     </div>  
-  </div>  
 </section>  <section class="cta">  
   <h3>Ready to power up, secure, and automate your space?</h3>  
   <p>Contact FNL NIGERIA LIMITED today for a free consultation!</p>  
