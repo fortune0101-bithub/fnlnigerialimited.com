@@ -135,33 +135,11 @@ Budget: ${budget}%0A
   Chat on WhatsApp
 </button>
 <head>
-  target=" <meta charset="UTF-8">
-    <title>Contact on WhatsApp</title>
-    <style>
-        .whatsapp-button {
-            display: inline-block;
-            background-color: #25D366;
-            color: white;
-            padding: 12px 20px;
-            border-radius: 5px;
-            text-decoration: none;
-            font-size: 16px;
-            font-weight: bold;
-            transition: background-color 0.3s ease;
-        }
-
-        .whatsapp-button:hover {
-            background-color: #1EBE5D;
-        }
-    </style>
-</head>
-<body>
-
-    <h2>Contact Us via WhatsApp</h2>
-
-    <a class="whatsapp-button" 
+      target=" <meta charset="UTF-8">
+       <h2>Contact Us via WhatsApp</h2>
+       <a class="whatsapp-button" 
        href="https://wa.me/2348022398780" 
-       target="_blank">
+       <target="+2348131103349">
        Chat on WhatsApp
     </a>
 
